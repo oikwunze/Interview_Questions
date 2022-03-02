@@ -290,4 +290,4 @@ General questions:
 229.	GlideDialogWindow scenario. 
 
 ```
-![image](https://user-images.githubusercontent.com/52090888/156368805-2c0c9516-61a6-4779-a13c-e2306a8cfe62.png)
+
