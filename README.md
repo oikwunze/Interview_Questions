@@ -291,7 +291,8 @@ General questions:
 
 
 Others
--- How to upgrade service now instance
+-- How to upgrade service now instance - RAISE A HI TICKET IN SERVICENOW
+-- ZING SEARCH technique is used in service now to search for words.
 
 Banner logo may not defined in My Company or showing Servicenow Logo
 
