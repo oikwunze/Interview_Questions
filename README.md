@@ -289,5 +289,23 @@ General questions:
 228.	Ui macro scenario #jelly script
 229.	GlideDialogWindow scenario. 
 
+
+Others
+-- How to upgrade service now instance
+
+Banner logo may not defined in My Company or showing Servicenow Logo
+
+   Resolution
+   Please follow the steps below:
+
+   Login as an administrator using UI16.
+   Go to My Company under the System Properties application module.
+   Add the field 'UI16 Banner Image' to the form layout if not already present on the form.
+   Upload the company image from the Image Library.
+   Save and update the record.
+   Refresh the browser.
+
+
+
 ```
 
