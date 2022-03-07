@@ -293,6 +293,9 @@ General questions:
 Others
 -- How to upgrade service now instance - RAISE A HI TICKET IN SERVICENOW
 -- ZING SEARCH technique is used in service now to search for words.
+-- What kind of protocol does servicenow use to send and recieve email notifications(Configure in Email Accout module)
+   POP3-- To send emails from servicenow to outside
+   SMTP-- To recieve emails from outside to servicenow
 
 Banner logo may not defined in My Company or showing Servicenow Logo
 
